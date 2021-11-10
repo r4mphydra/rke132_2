@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.csproj.AssemblyReference.cache
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\bin\Debug\net5.0\DrivingLicense.exe
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\bin\Debug\net5.0\DrivingLicense.deps.json
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\bin\Debug\net5.0\DrivingLicense.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\bin\Debug\net5.0\DrivingLicense.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\bin\Debug\net5.0\DrivingLicense.dll
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\bin\Debug\net5.0\ref\DrivingLicense.dll
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\bin\Debug\net5.0\DrivingLicense.pdb
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.dll
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\obj\Debug\net5.0\ref\DrivingLicense.dll
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.pdb
+C:\Users\Artjom\Documents\RKE132\UserData\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.genruntimeconfig.cache
